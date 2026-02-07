@@ -82,4 +82,4 @@ http://localhost:8000/
 ## License
 
 - Template: HTML5 UP "Dimension" — CC BY 3.0. See `LICENSE.txt`.
-- Custom content (text, images, logo) © respective owner.
+- Custom content (text, images, logo) © Jesse Odoh.
